@@ -1,8 +1,4 @@
-<h2 align="left">Olá 👋! Sou Ronaldo Pimentel e vou compartilhar aqui sobre Ciência de dados</h2>
-
-###
-
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVyZGJuMDRicjQyeGh0aGlva3ZkdzUyNHJ1dWI3cTF6cDV6NmpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif"  />
+<h2 align="left">Hi👋! I'm Ronaldo Pimentel !</h2>
 
 ###
 
@@ -48,12 +44,13 @@
   <a href="https://www.youtube.com/@ronipmars" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="ronipmars@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ronaldopimentel/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVyZGJuMDRicjQyeGh0aGlva3ZkdzUyNHJ1dWI3cTF6cDV6NmpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yBvndlpq8aCvS/giphy.gif"  />
 
 ###
